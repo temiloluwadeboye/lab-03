@@ -1,4 +1,6 @@
 # CMPUT 301 : Lab 3 Participation Exercise
+Name: Temiloluwa Adeboye
+CCID: tadeboye
 
 ## References and Resources
 
